@@ -1,6 +1,6 @@
-import { createGlobalStyle } from "styled-components"
+import { createGlobalStyle } from 'styled-components'
 
-import { newColors, fontFamily } from '../ui-kit/sharedStyles'
+import { fontFamily } from '../ui-kit/sharedStyles'
 
 export const GlobalStyles = createGlobalStyle`
   *, *:before, *:after {
